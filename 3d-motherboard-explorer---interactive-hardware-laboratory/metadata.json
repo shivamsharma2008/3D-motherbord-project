@@ -1,0 +1,6 @@
+{
+  "name": "3D Motherboard Explorer - Interactive Hardware Laboratory",
+  "description": "An interactive 3D computer motherboard exploration and learning laboratory for students and tech enthusiasts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
